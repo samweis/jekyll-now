@@ -9,4 +9,4 @@ I'm Sam Weismuller, a Computer Science Junior at UT.
 
 ### Contact me
 
-[email@domain.com](mailto:spweismuller@utexas.edu)
+[spweismuller@utexas.edu](mailto:spweismuller@utexas.edu)
