@@ -1,0 +1,14 @@
+---
+layout: post
+title: Eighth Week
+---
+<p><b><i>What did you do this past week?</i></b></p>
+<p>This past week we learned about Python's mysterious decorators. We also had some guest lectures about the web services we can use for the IDB project. I also started getting organized with my group on that project, though things have been difficult with midterms and spring break.</p>
+<p><b><i>What's in your way?</i></b></p>
+<p>Finding a topic for the IDB project has been rough. Many topics don't have an API publicly available. Many of the ones that do lack enough depth to build a sufficiently complex model for them. It's also tough because the things I like (Pokemon, Star Wars, ect.) aren't allowed while things that don't interest me (like Game of Thrones) are. That said, if everyone in your group doesn't like the topic, its difficult to move forward. My group and I have been indecisive this past week and, unfortunately, most of the robust APIs have now been taken.</p>
+<p><b><i>What will you do next week?</i></b></p>
+<p>Next week is spring break. I'm going to be in California doing interviews, but I'm planning on coordinating with my group to get moving on Project 3. I've found a couple suitable APIs so hopefully we can come to an agreement on one.</p>
+<p><b><i>What's my experience of the class?</i></b></p>
+<p>Project 3 is pretty different from the other projects. The group size much larger and there are many technologies that you have to go out and learn on your own. In a way, this is a simulation of what a real work environment would be like but, at the same time, you can get a bit lost on what to do. It took me some time to fully understand what a RESTful API even is. The lack of in-person meeting with the group due to spring break also makes this process more difficult.</p>
+<p><b>Pick-o-the-Week</b></p>
+<p>Since we were talking about decorators in class this week, I chose <a href = "https://www.codementor.io/sheena/advanced-use-python-decorators-class-function-du107nxsv"> this article</a> about use cases for decorators. It introduces the concepts like decorators with multiple arguments (besides the callable it is decorating) and gives practical examples for why they would be useful.</p>
