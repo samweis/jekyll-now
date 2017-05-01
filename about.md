@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Sam Weismuller, a Computer Science Junior at UT.
+I'm Sam Weismuller, a Computer Science Senior at UT.
 
 
 ### Contact me
